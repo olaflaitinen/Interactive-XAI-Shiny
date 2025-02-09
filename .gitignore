@@ -1,0 +1,11 @@
+# History files
+.Rhistory
+.RData
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Build artifacts
+.Rbuildignore
+.DS_Store
